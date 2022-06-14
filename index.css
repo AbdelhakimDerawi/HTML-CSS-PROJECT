@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+main {
+    width: 1080px;
+    height: 800px;
+    text-align: center;
+    font-family: "Roboto Mono", monospace;
+    margin: 0 auto;
+    background-color: #222;
+    color: white;
+    padding: 50px;
+}
+body {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.linkedin , .mail, .codewars, .fcc,.gh{
+    color: white;
+}
+h2,p{
+    text-align: left;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
