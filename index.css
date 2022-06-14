@@ -4,7 +4,7 @@ html, body {
 }
 main {
     width: 1080px;
-    height: 800px;
+    height: 1000px;
     text-align: center;
     font-family: "Roboto Mono", monospace;
     margin: 0 auto;
@@ -16,10 +16,10 @@ body {
     padding-top: 100px;
     padding-bottom: 100px;
 }
-.linkedin , .mail, .codewars, .fcc,.gh{
+.linkedin , .mail, .codewars, .fcc,.gh, .dicegame{
     color: white;
 }
-h2,p{
+h2,p {
     text-align: left;
 }
 p{
